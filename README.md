@@ -1,4 +1,5 @@
 # devops-aula2
 Will Smith
-Johnny Depp
+Giovanna
 Angelina Jolie
+Luiz
